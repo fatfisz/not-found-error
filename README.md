@@ -1,6 +1,6 @@
 # NotFoundError
 
-When you've lost something
+> When you've lost something
 
 [![Dependency Status](https://david-dm.org/fatfisz/not-found-error.svg)](https://david-dm.org/fatfisz/not-found-error)
 [![devDependency Status](https://david-dm.org/fatfisz/not-found-error/dev-status.svg)](https://david-dm.org/fatfisz/not-found-error#info=devDependencies)
