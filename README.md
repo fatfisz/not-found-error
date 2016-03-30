@@ -2,7 +2,6 @@
 
 When you've lost something
 
-[![Build Status](https://travis-ci.org/fatfisz/not-found-error.svg?branch=master)](https://travis-ci.org/fatfisz/not-found-error)
 [![Dependency Status](https://david-dm.org/fatfisz/not-found-error.svg)](https://david-dm.org/fatfisz/not-found-error)
 [![devDependency Status](https://david-dm.org/fatfisz/not-found-error/dev-status.svg)](https://david-dm.org/fatfisz/not-found-error#info=devDependencies)
 
