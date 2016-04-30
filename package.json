@@ -1,12 +1,12 @@
 {
   "name": "not-found-error",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple NotFoundError constructor",
   "main": "dist/index.js",
   "jsnext:main": "lib/index.js",
   "files": [
     "dist",
-    "lib"
+    "lib/**/*.js"
   ],
   "keywords": [
     "error",
