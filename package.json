@@ -24,14 +24,14 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "babel": "^5.8.38",
-    "eslint": "^2.5.3",
-    "grunt": "^0.4.5",
+    "eslint": "^2.9.0",
+    "eslint-config-fatfisz": "^2.9.0",
+    "grunt": "^1.0.1",
     "grunt-babel": "^5.0.3",
-    "grunt-cli": "^1.1.0",
+    "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "^1.0.0",
-    "grunt-eslint": "^18.0.0",
-    "load-grunt-tasks": "^3.4.1"
+    "grunt-eslint": "^18.1.0",
+    "load-grunt-tasks": "^3.5.0"
   },
   "babel": {
     "loose": [
