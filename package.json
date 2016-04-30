@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "A simple NotFoundError constructor",
   "main": "dist/index.js",
+  "jsnext:main": "lib/index.js",
   "files": [
     "dist",
     "lib"
